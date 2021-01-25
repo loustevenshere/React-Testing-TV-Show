@@ -34,7 +34,7 @@ export default function App() {
 
   if (!show) {
     return <h2>Fetching data...</h2>;
-  }
+   }
 
   return (
     <div className="App">
